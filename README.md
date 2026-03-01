@@ -1,7 +1,7 @@
 # Контрольная работа #1
 
 ## Практическая работа №1
-Создана карточка товара с использованием переменных ($primary-color, $bg_color), миксина (@mixin button), вложенной структуры селекторов  
+Создана карточка товара с использованием переменных (например, $primary-color, $bg_color), миксина (например, @mixin button), вложенной структуры селекторов  
 https://github.com/mitjink/fabd_pr1
 
 ## Практическая работа №2
@@ -15,7 +15,7 @@ https://github.com/mitjink/fabd_pr2
 
 ## Практическая работа №3
 - Протестировано собственное API в Postman  
-Выполнены запросы к OpenWeatherMap API  
+- Выполнены запросы к OpenWeatherMap API  
 https://github.com/mitjink/fabd_pr3
 
 ## Практическая работа №4
